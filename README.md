@@ -9,20 +9,13 @@ This project is designed to help researchers, emergency managers, and communicat
 ## Sample Datasets
 Included in /data:
 
-sample_warnings.csv: Collection of warning messages from:
-
-NWS (official text)
-
-Broadcast media (TV transcripts or quotes)
-
-Mobile apps (push alerts)
-
-Each row includes:
-
-source (e.g., "NWS", "Broadcast", "App")
-
-text (full warning message)
-
+- sample_warnings.csv: Collection of warning messages from:
+- NWS (official text)
+- Broadcast media (TV transcripts or quotes)
+- Mobile apps (push alerts)
+- Each row includes:
+- Source (e.g., "NWS", "Broadcast", "App")
+- Text (full warning message)
 
 ## Communication Spectrum Score
 Each warning is scored on a composite scale combining:
@@ -33,7 +26,7 @@ Each warning is scored on a composite scale combining:
 
 - Sentiment: Does it feel neutral, alarming, or confusing?
 
-- The goal is not to shame sources but to visualize variation and suggest improvements in crisis communication.
+### **The goal is not to shame sources but to visualize variation and suggest improvements in crisis communication.**
 
 ---
 License
