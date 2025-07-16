@@ -9,7 +9,7 @@ This project is designed to help researchers, emergency managers, and communicat
 ## Sample Datasets
 Included in /data:
 
-- sample_warnings.csv: Collection of warning messages from:
+- Sample_warnings.csv: Collection of warning messages from:
 - NWS (official text)
 - Broadcast media (TV transcripts or quotes)
 - Mobile apps (push alerts)
