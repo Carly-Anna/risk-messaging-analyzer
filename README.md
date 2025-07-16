@@ -4,7 +4,7 @@ A Python-based tool for analyzing and visualizing the clarity, urgency, and effe
 
 This project is designed to help researchers, emergency managers, and communicators understand how different messaging styles impact public perception and response during dangerous weather events.
 
-![Example](.assets/Risk11.jpeg) 
+![Chart One](assets/Risk11.jpeg)
 ---
 
 ## Sample Datasets
