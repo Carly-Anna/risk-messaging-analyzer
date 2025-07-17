@@ -38,7 +38,30 @@ Each warning is scored on a composite scale combining:
 
 - Sentiment: Does it feel neutral, alarming, or confusing?
 
-### **The goal is not to shame sources but to visualize variation and suggest improvements in crisis communication.**
+**The goal is not to shame sources but to visualize variation and suggest improvements in crisis communication.**
+
+## Results Overview
+![Results One](assets/Sentiment-Score.png)
+### About the Sentiment Score
+- Sentiment scores reflect tone, not accuracy.
+- Negative scores often mean urgent, clear warnings (good!).
+- - NWS scores are clustered, indicating consistent messaging.
+- Phone apps may score more positive because they use softer language. This can be a negative in the context of severe weather.
+- Positive scores can indicate optimism; not always appropriate for dangerous or severe situations. 
+- Use sentiment with other measures for full understanding.
+
+![Readability](Readability.png)
+### About the Readability Score
+Readability scores (like the Flesch-Kincaid Grade Level) measure how easy or difficult a piece of text is to read and understand. They are important in severe weather communication because clear messaging can save lives.
+
+- Lower readability scores mean the text is easier to read and suitable for a wider audience, including people with varying education levels.
+- Higher readability scores indicate more complex text that might be harder for the general public to quickly comprehend during an emergency.
+
+**In this project:** 
+- The National Weather Service (NWS) aims for clear, concise language, often resulting in moderate readability scores that balance technical accuracy and public understanding.
+- Broadcast media messages may vary widely—some use simpler language, others use more dramatic and complex phrasing. This is highly contingent on their local region & what they respond to.
+- Phone app warnings sometimes include brief alerts that are very easy to read, but sometimes vague or lacking detail. No timing or specifics on threat. 
+
 
 ---
 License
