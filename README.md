@@ -19,15 +19,15 @@ This project is designed to help researchers, emergency managers, and communicat
 ---
 
 ## Sample Datasets
-Included in /data:
-
-- Sample_warnings.csv: Collection of warning messages from:
+### Included in /data:sample_warnings.csv is a collection of warning messages from:
 - NWS (official text)
 - Broadcast media (TV transcripts or quotes)
 - Mobile apps (push alerts)
-- Each row includes:
+- 
+### Each row includes:
 - Source (e.g., "NWS", "Broadcast", "App")
 - Text (full warning message)
+- Date 
 
 ## Communication Spectrum Score
 Each warning is scored on a composite scale combining:
