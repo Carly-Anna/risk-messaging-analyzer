@@ -45,7 +45,7 @@ Each warning is scored on a composite scale combining:
 ### About the Sentiment Score
 - Sentiment scores reflect tone, not accuracy.
 - Negative scores often mean urgent, clear warnings (good!).
-- - NWS scores are clustered, indicating consistent messaging.
+- NWS scores are clustered, indicating consistent messaging.
 - Phone apps may score more positive because they use softer language. This can be a negative in the context of severe weather.
 - Positive scores can indicate optimism; not always appropriate for dangerous or severe situations. 
 - Use sentiment with other measures for full understanding.
