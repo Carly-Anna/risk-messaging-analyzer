@@ -15,7 +15,7 @@ By analyzing tone, structure, and readability, this tool provides insight into h
 
 This project is designed to help researchers, emergency managers, and communicators understand how different messaging styles impact public perception and response during dangerous weather events.
 
-![Chart One](assets/General1.jpeg)
+![Chart One](assets/General1.png)
 ---
 
 ## Sample Datasets
