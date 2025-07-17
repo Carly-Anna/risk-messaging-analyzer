@@ -23,7 +23,7 @@ This project is designed to help researchers, emergency managers, and communicat
 - NWS (official text)
 - Broadcast media (TV transcripts or quotes)
 - Mobile apps (push alerts)
-- 
+  
 ### Each row includes:
 - Source (e.g., "NWS", "Broadcast", "App")
 - Text (full warning message)
