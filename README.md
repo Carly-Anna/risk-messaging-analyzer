@@ -50,7 +50,7 @@ Each warning is scored on a composite scale combining:
 - Positive scores can indicate optimism; not always appropriate for dangerous or severe situations. 
 - Use sentiment with other measures for full understanding.
 
-![Readability](Readability.png)
+![Readability](assets/Readability.png)
 ### About the Readability Score
 Readability scores (like the Flesch-Kincaid Grade Level) measure how easy or difficult a piece of text is to read and understand. They are important in severe weather communication because clear messaging can save lives.
 
